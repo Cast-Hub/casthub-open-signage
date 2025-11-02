@@ -8,5 +8,8 @@ This repository will soon host **CastHub Open Signage**, our upcoming **open-sou
 > 🟢 **Currently in development**  
 > The open-source codebase will be published here soon, including the Fire TV player, web CMS, and Docker deployment setup.
 
+> 🟣 **React client already open-source**  
+> Explore the published React web client at [casthub-open-signage-react-client](https://github.com/Cast-Hub/casthub-open-signage-react-client).
+
 Stay tuned for updates at [**casthub.io**](https://casthub.io)  
 and follow our progress on [**GitHub**](https://github.com/casthub).
